@@ -74,5 +74,5 @@ print(lt)
 le = __le__(h1, h2)
 print(le)
 
-ne = __gt__(h1, h2)
+ne = __ne__(h1, h2)
 print(ne)
