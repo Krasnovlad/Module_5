@@ -76,10 +76,3 @@ print(le)
 
 ne = __gt__(h1, h2)
 print(ne)
-
-
-
-
-
-
-
